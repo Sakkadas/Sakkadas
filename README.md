@@ -1,10 +1,19 @@
 
 
-### 📫 Contacts: 
-* Facebook: [facebook.com/ilya.nesterov.39](https://www.facebook.com/ilya.nesterov.39)
-* Instagram: [instagram.com/ilushanester](https://twitter.com/ilushanester)
-* Telegram: [t.me/sakkadas](https://t.me/sakkadas)
-* VK: [vk.com/id14964597](https://vk.com/id14964597)
+📫 Contacts: 
+
+<img width="2%" align="left" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"> sakkadamonada@gmail.com
+
+<img width="2%" align="left" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg"> <a href="https://www.facebook.com/ilya.nesterov.39">Facebook</a>
+<b />
+
+<img width="2%" align="left" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"><a href="https://www.instagram.com/ilushanester">Instagram</a>
+<b />
+
+<img width="2%" align="left" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"><a href="https://t.me/sakkadas">Telegram</a>
+<b />
+
+<img width="2%" align="left" src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg"><a href="https://vk.com/id14964597">VK</a>
 
 
 Languages and Tools:⠀
