@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 sakkadamonada@gmail.com
 
-<br />
-<br />
-Languages and Tools:⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀         ⠀⠀⠀⠀       
+
+Languages and Tools:⠀
+<p>⠀⠀⠀⠀⠀⠀⠀⠀         ⠀⠀⠀⠀       
   <img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/64/000000/python.png"/>
   <img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/django.png"/>
   <img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/64/000000/html-5.png"/>
@@ -15,11 +15,11 @@ Languages and Tools:⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀         ⠀⠀⠀⠀
   <img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/sql.png"/>
   <img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 
-Have experienced:
+
 <img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/linux.png"/>
 <img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/redis.png"/>
-
+</p>
 
 
 ### :link: Also me on
