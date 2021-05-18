@@ -40,4 +40,6 @@ Languages and Tools:⠀
 <img width="2%" align="left" src="https://stepik.org/static/frontend/mobile-banner/stepik_logotype_square_black.svg"> [Stepik](https://stepik.org/users/260029519)
 <br />
 <img width="2%" align="left" src=https://www.codewars.com/assets/logos/logo-61192cf7c75904d495e7ad69695fbf0bffd965bc3e17ac60f6c6b475304db09d.svg> [Codewars](https://www.codewars.com/users/Sakkadas)
+ <br />
+ <img width="2%" align="left" src=https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png> [LeetCode](https://leetcode.com/Sakkadas/)
 </details>
