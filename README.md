@@ -18,18 +18,15 @@
 
 Languages and Tools:⠀
 <p>⠀⠀⠀⠀⠀⠀⠀⠀         ⠀⠀⠀⠀       
-  <img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/64/000000/python.png"/>
-  <img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/django.png"/>
-  <img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/64/000000/html-5.png"/>
-  <img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/sql.png"/>
-  <img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-
-
+<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/64/000000/python.png"/>
+<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/django.png"/>
+<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/64/000000/html-5.png"/>
+<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/sql.png"/>
+<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/linux.png"/>
-<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/redis.png"/>
 </p>
 
 <br />
