@@ -25,7 +25,6 @@ Languages and Tools:⠀
 <img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/sql.png"/>
 <img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/linux.png"/>
 </p>
 
