@@ -1,3 +1,9 @@
+### Hello there, I'm Ilya
+### I'm a Python / Django web developer
+
+- I’m currently working on **Notes app**: <img src="https://s6.gifyu.com/images/Mainb13797258c59007a.jpg" width=70px />
+- I’m currently learning: **JavaScript, React, Node.js**
+- I have been working with **Python** more then 1 year / **Django** 0.5 years
 
 
 📫 Contacts: 
