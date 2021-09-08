@@ -1,7 +1,7 @@
 ### Hello there, I'm Ilya
 ### I'm a Python / Django web developer
 
-- I’m currently working on **Notes app**: <a href="https://github.com/Sakkadas/Notes" target="_blank"> <img src="https://s9.gifyu.com/images/oie_png.png" width=70px /></a>
+- I’m currently working on **Notes app**: <a href="https://github.com/Sakkadas/Notes" target="_blank"> <img src="https://s9.gifyu.com/images/oie_png.png" width=55px /></a>
 - I’m currently learning: **JavaScript, React, Node.js**
 - I have been working with **Python** more than 1 year / **Django** 0.5 years
 
