@@ -2,7 +2,7 @@
 ### I'm a Python / Django web developer
 
 
-- I’m currently working on **Notes app**: <a href="https://gifyu.com/image/JYHY"><img src="https://s9.gifyu.com/images/imageonline-co-roundcorner.png" alt="imageonline-co-roundcorner.png" border="0" width=60px /></a>
+- I’m currently working on **Notes app**: <a href="https://github.com/Sakkadas/Notes"><img src="https://s9.gifyu.com/images/imageonline-co-roundcorner.png" alt="imageonline-co-roundcorner.png" border="0" width=60px /></a>
 - I’m currently learning: **JavaScript, React, Node.js**
 - I have been working with **Python** more than 1 year / **Django** 0.5 years
 
