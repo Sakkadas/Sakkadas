@@ -1,12 +1,6 @@
 ### Hello there, I'm Ilya
 ### I'm a Python / Django web developer
 
-
-- I’m currently working on **Notes app**: <a href="https://github.com/Sakkadas/Notes"><img src="imageonline-co-roundcorner.png" alt="imageonline-co-roundcorner.png" border="0" width=60px /></a>
-- I’m currently learning: **JavaScript, React, Node.js**
-- I have been working with **Python** more than 1 year / **Django** 0.5 years
-
-
 📫 Contacts: 
 
 <img width="2%" align="left" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"> ilya.w.nesterov@gmail.com
