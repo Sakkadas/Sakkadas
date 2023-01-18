@@ -1,7 +1,7 @@
 
-Web developer
+### Web developer
 
-📫 Contacts: 
+📫 <b>Contacts: </b>
 
 <img width="2%" align="left" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"> ilya.w.nesterov@gmail.com
 
